@@ -2,7 +2,6 @@
 #include <cassert> 
 using namespace std; 
 #include "Linkedlist.h"
-// --- paste your Node and LinkedList classes above main --- 
  
 int main() { 
     LinkedList L; 
